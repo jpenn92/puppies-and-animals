@@ -1,2 +1,40 @@
 # puppies-and-animals
-Combined labs project exploring Bootstrap, responsive design, hero images, JavaScript galleries, and image handling. Includes playful examples like puppies and animals to practice layout, CSS frameworks, embedded vs. background images, and interactive design concepts.
+
+🐶 **Puppies and Animals Labs**
+
+This project combines labs focused on Bootstrap, responsive design, and interactive elements like hero images and JavaScript photo galleries. It uses playful themes like puppies and animals to practice core web development skills.
+
+## 📚 About
+
+These labs explore:
+
+- Bootstrap grid and components
+- Font Awesome icons
+- Responsive layout techniques
+- Background vs. embedded images
+- JavaScript interactivity (photo gallery)
+- Best practices for accessible design
+
+## 💻 Features
+
+- Puppies and Animals pages
+- Responsive hero images
+- Grid layouts and columns
+- Navigation and interactive elements
+- JavaScript photo gallery
+
+## 🚀 Skills Practiced
+
+- CSS frameworks (Bootstrap)
+- Responsive design techniques
+- Grid systems and layout
+- JavaScript basics
+- Image handling and optimization
+
+## 📸 Screenshots
+
+### 🐾 Puppies Page  
+![Puppies](images/puppies.png)
+
+### 🐾 Animals Page  
+![Animals](images/animals.png)
